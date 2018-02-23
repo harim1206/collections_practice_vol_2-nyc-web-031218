@@ -24,6 +24,13 @@ def contain_a(arr)
   return answer
 end
 
+
+
 def first_wa(arr)
+
+  arr.find{
+    |word|
+  }
+
 
 end

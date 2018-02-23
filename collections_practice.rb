@@ -8,8 +8,11 @@ def begins_with_r(arr)
 
   }
 
-
-
 end
 
 #begins_with_r(["ruby","rspec","sails"])
+
+def contain_a(arr)
+
+
+end

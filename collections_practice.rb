@@ -4,7 +4,7 @@ def begins_with_r(arr)
   arr.all? {
     |element|
     puts(element)
-    return element[0] == "r"
+    element[0] == "r"
 
   }
 

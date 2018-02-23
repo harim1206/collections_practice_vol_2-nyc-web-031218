@@ -101,7 +101,6 @@ describe 'collections practice vol 2.' do
 
   end
 
-
   describe '#contain_a' do
     # Question 2
 
@@ -111,7 +110,6 @@ describe 'collections practice vol 2.' do
 
   end
 
-=begin
   describe '#first_wa' do
 
     # Question 3
@@ -173,6 +171,5 @@ describe 'collections practice vol 2.' do
     end
 
   end
-=end
 
 end

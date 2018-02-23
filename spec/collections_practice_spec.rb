@@ -112,7 +112,7 @@ describe 'collections practice vol 2.' do
   end
 
 
-=begin
+
   describe '#first_wa' do
 
     # Question 3
@@ -122,6 +122,9 @@ describe 'collections practice vol 2.' do
     end
 
   end
+
+
+=begin
 
   describe '#remove_non_strings' do
 

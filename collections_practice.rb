@@ -34,3 +34,7 @@ def first_wa(arr)
   }
 
 end
+
+def remove_non_strings(arr)
+
+  arr.delete_if(|elem| elem.class != "String")

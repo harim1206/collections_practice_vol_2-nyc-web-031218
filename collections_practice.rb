@@ -3,7 +3,7 @@ def begins_with_r(arr)
 
   arr.all? {
     |element|
-    puts(element)
+    #puts(element)
     element[0] == "r"
 
   }
@@ -12,4 +12,4 @@ def begins_with_r(arr)
 
 end
 
-begins_with_r(["ruby","rspec","sails"])
+#begins_with_r(["ruby","rspec","sails"])

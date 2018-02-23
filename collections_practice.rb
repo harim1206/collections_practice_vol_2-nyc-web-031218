@@ -14,5 +14,10 @@ end
 
 def contain_a(arr)
 
+  arr.any? {
+    |word|
+    word.include?("a")
+  }
+
 
 end

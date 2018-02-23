@@ -13,10 +13,11 @@ end
 #begins_with_r(["ruby","rspec","sails"])
 
 def contain_a(arr)
-
+  answer = []
   arr.each {
     |word|
-    word.include?("a")
+    if word.include?("a")
+      answer << word
   }
 
 

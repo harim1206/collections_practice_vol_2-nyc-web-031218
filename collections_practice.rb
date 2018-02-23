@@ -14,7 +14,7 @@ end
 
 def contain_a(arr)
 
-  arr.any? {
+  arr.each {
     |word|
     word.include?("a")
   }

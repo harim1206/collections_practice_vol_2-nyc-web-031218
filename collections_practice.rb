@@ -30,6 +30,7 @@ def first_wa(arr)
 
   arr.find{
     |word|
+    word[0] == "w" && word[1] == "a"
   }
 
 

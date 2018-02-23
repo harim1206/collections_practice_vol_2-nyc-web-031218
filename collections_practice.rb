@@ -18,6 +18,7 @@ def contain_a(arr)
     |word|
     if word.include?("a")
       answer << word
+    end
   }
 
   return answer

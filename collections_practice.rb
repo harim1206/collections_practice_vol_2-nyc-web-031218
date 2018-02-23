@@ -20,5 +20,5 @@ def contain_a(arr)
       answer << word
   }
 
-
+  return answer
 end

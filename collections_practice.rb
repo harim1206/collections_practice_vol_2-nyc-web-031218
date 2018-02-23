@@ -33,5 +33,4 @@ def first_wa(arr)
     word[0] == "w" && word[1] == "a"
   }
 
-
 end

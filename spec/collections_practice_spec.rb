@@ -124,7 +124,7 @@ describe 'collections practice vol 2.' do
   end
 
 
-=begin
+
 
   describe '#remove_non_strings' do
 
@@ -137,6 +137,8 @@ describe 'collections practice vol 2.' do
     end
 
   end
+
+=begin
 
   describe '#count_elements' do
 

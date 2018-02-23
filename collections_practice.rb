@@ -3,7 +3,7 @@ def begins_with_r(arr)
 
   arr.all? {
     |element|
-    
+    puts(element[0])
     return element[0] == "r"
 
   }
